@@ -1,0 +1,30 @@
+.parallax {
+  height: 369px;
+  background-image: url('../img/get_in.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.parallax-desc {
+  text-align: center;
+  color: $white;
+  padding-top: 4%;
+}
+
+.parallax-desc_h1 {
+  font-family: 'RobotoSlab';
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 44px;
+  margin-bottom: 50px;
+}
+
+.parallax-desc_button {
+  border: 2px solid $white;
+  padding: 12px 34px;
+  font-family: 'Montserrat';
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 24px;
+  text-transform: uppercase;
+}

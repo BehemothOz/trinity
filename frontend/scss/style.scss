@@ -6,8 +6,10 @@
  
 @import "global.scss";
 
+@import "modules/sec-title.scss";
 
 @import "parts/header.scss";
 
+@import "parts/sec-parallax.scss";
 
-@import "modules/sec-title.scss";
+@import "parts/footer.scss";

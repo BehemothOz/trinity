@@ -1,0 +1,75 @@
+.startup {
+  height: 770px;
+  max-height: 770px;
+  background-image: url('../img/bg_img.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: 'Montserrat';
+  color: $white;
+}
+
+.startup__wrapper {
+  @include cf();
+  text-align: justify;
+  padding-top: 32px;
+}
+
+.startup-logo {
+  float: left;
+}
+
+.startup-logo_h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.startup-navigation {
+  float: right;
+}
+
+.nav-item {
+  float: left;
+  padding-top: 8px;
+  margin-left: 34px;
+}
+
+.nav-item_link {
+  color: white;
+  font-family: 'Montserrat';
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.nav-items {
+  @include cf();
+}
+
+.header-desc {
+  text-align: center;
+  margin: 21.5%;
+}
+
+.header-desc_h1 {
+  font-family: 'Montserrat';
+  font-size: 4.8rem;
+  text-transform: uppercase;
+}
+
+.header-desc_p {
+  font-family: 'RobotoSlab';
+  font-size: 20px;
+  padding-top: 16px;
+  padding-bottom: 46px;
+}
+
+.header-desc_button {
+  border: 2px solid $white;
+  padding: 12px 34px;
+  font-family: 'Montserrat';
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 24px;
+  text-transform: uppercase;
+}

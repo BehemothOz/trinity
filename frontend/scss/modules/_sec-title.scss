@@ -4,7 +4,7 @@
   text-align: center;
 }
 
-.module_h2, .module_footer-social {
+.module_h2 {
   position: relative;
   font-size: 2rem;
   font-weight: 400;
@@ -13,7 +13,7 @@
   margin-bottom: 49px;
 }
 
-.module_h2:after {
+.module_h2::after, .footer-item::after {
   position: absolute;
   bottom: -27px;
   right: 50%;

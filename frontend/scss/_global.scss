@@ -1,5 +1,9 @@
 @import 'utils/normalize.scss';
 
+* {
+  box-sizing: border-box;
+}
+
 a {
   text-decoration: none;
 }
@@ -20,6 +24,7 @@ p {
 }
 
 ul {
+  margin: 0;
   list-style: none;
 }
 
