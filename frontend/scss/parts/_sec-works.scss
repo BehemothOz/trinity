@@ -60,7 +60,7 @@
 }
 
 
-.inner-item {
+.gallery-inner-item {
   opacity: 0;
   position: absolute;
   top: 0;
@@ -72,6 +72,10 @@
   background-color: rgba(192, 48, 28,.6);
   transition: all .4s;
   cursor: pointer;
+
+    @media (max-width: 480px) {
+      display: none;
+    }
 
   .inner-item-title {
     font-family: Montserrat;
@@ -104,6 +108,6 @@
   transform: translate(-50%, -50%);
 }
 
-.gallery-item:hover .inner-item{
+.gallery-item:hover .gallery-inner-item{
   opacity: 1;
 }
