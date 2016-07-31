@@ -1,0 +1,23 @@
+$red: #c0301c;
+$white: #000;
+$black: #555;
+$lite-black: #777;
+$gray: #f8f8f8;
+
+//font-size
+
+$fs_base: 10px;
+
+//mixins
+
+@mixin cf() {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+@mixin footer-social {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+}
