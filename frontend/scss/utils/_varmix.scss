@@ -8,6 +8,14 @@ $gray: #f8f8f8;
 
 $fs_base: 10px;
 
+
+//media
+
+$lg: 1200px;
+$md: 992px;
+$sm: 768px;
+$xs: 480px;
+
 //mixins
 
 @mixin cf() {

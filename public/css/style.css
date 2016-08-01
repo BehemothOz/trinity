@@ -473,7 +473,8 @@ button {
   max-height: 770px;
   background-image: url("../img/bg_img.jpg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-position: center;
+  background-size: cover;
   font-family: 'Montserrat';
   color: #fff;
 }
@@ -489,8 +490,27 @@ button {
   clear: both;
 }
 
+@media (max-width: 1200px) {
+  .startup__wrapper {
+    padding: 32px 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .startup__wrapper {
+    text-align: center;
+  }
+}
+
 .startup-logo {
   float: left;
+}
+
+@media (max-width: 768px) {
+  .startup-logo {
+    float: none;
+    display: block;
+  }
 }
 
 .startup-logo_h1 {
@@ -503,10 +523,31 @@ button {
   float: right;
 }
 
+@media (max-width: 768px) {
+  .startup-navigation {
+    float: none;
+    display: block;
+  }
+}
+
 .nav-item {
   float: left;
   padding-top: 8px;
   margin-left: 34px;
+}
+
+@media (max-width: 768px) {
+  .nav-item {
+    float: none;
+    display: inline-block;
+    margin: 0 15px;
+  }
+}
+
+@media (max-width: 599px) {
+  .nav-item {
+    display: block;
+  }
 }
 
 .nav-item_link {
@@ -517,15 +558,29 @@ button {
   line-height: 24px;
 }
 
+.nav-item_link:hover {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  transition: all .3s;
+}
+
 .nav-items::after {
   content: '';
   display: block;
   clear: both;
 }
 
+@media (max-width: 599px) {
+  .nav-items {
+    margin-top: 15px;
+  }
+}
+
 .header-desc {
   text-align: center;
-  margin: 21.5%;
+  margin-top: 21.5%;
 }
 
 .header-desc_h1 {
@@ -549,6 +604,15 @@ button {
   font-weight: 400;
   line-height: 24px;
   text-transform: uppercase;
+}
+
+.header-desc_button:hover {
+  background-color: rgba(119, 119, 119, 0.5);
+  transition: all .3s;
+}
+
+.header-desc_button:active {
+  background-color: rgba(192, 48, 28, 0.5);
 }
 
 .sec-contact {
@@ -882,7 +946,8 @@ button {
   height: 369px;
   background-image: url("../img/get_in.jpg");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-position: center;
+  background-size: cover;
 }
 
 .parallax-desc {
@@ -907,6 +972,15 @@ button {
   font-weight: 400;
   line-height: 24px;
   text-transform: uppercase;
+}
+
+.parallax-desc_button:hover {
+  background-color: rgba(119, 119, 119, 0.5);
+  transition: all .3s;
+}
+
+.parallax-desc_button:active {
+  background-color: rgba(192, 48, 28, 0.5);
 }
 
 .footer {
