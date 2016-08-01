@@ -607,12 +607,14 @@ button {
 }
 
 .header-desc_button:hover {
-  background-color: rgba(119, 119, 119, 0.5);
-  transition: all .3s;
+  background-color: rgba(255, 255, 255, 0.6);
+  transition: all .2s;
+  color: red;
 }
 
 .header-desc_button:active {
   background-color: rgba(192, 48, 28, 0.5);
+  color: #fff;
 }
 
 .sec-contact {
@@ -975,12 +977,14 @@ button {
 }
 
 .parallax-desc_button:hover {
-  background-color: rgba(119, 119, 119, 0.5);
-  transition: all .3s;
+  background-color: rgba(255, 255, 255, 0.6);
+  transition: all .2s;
+  color: red;
 }
 
 .parallax-desc_button:active {
   background-color: rgba(192, 48, 28, 0.5);
+  color: #fff;
 }
 
 .footer {

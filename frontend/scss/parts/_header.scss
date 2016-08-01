@@ -115,11 +115,13 @@
   text-transform: uppercase;
 
   &:hover {
-    background-color: rgba($lite-black, 0.5);
-    transition: all .3s;
+    background-color: rgba($white, 0.6);
+    transition: all .2s;
+    color: red;
   }
 
   &:active {
     background-color: rgba($red, 0.5);
+    color: $white; 
   }
 }
