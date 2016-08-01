@@ -1,13 +1,20 @@
 // var
-
 @import "utils/varmix.scss";
 
 // global
- 
 @import "global.scss";
+
+@import "modules/sec-title.scss";
 
 
 @import "parts/header.scss";
+@import "parts/sec-contacts.scss";
+@import "parts/sec-works.scss";
+@import "parts/sec-service.scss";
+@import "parts/sec-about.scss";
+
+@import "parts/sec-parallax.scss";
+
+@import "parts/footer.scss";
 
 
-@import "modules/sec-title.scss";

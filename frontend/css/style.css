@@ -399,6 +399,7 @@ a {
 
 html {
   font-size: 10px;
+  box-sizing: border-box;
 }
 
 h1,
@@ -462,110 +463,28 @@ button {
   line-height: 24px;
 }
 
+.test {
+  height: 500px;
+  background-color: green;
+}
 
-/*
------------------------------
-      _sec-service.scss
------------------------------
-*/
 .sec-service {
   padding-bottom: 100px;
-  color: black;
-}
-
-.module {
-  width: 40%;
-}
-
-.sec-service__wrapper::after {
-  content: '';
-  display: table;
-  clear: both;
+  color: #555;
+  background: #c0301c;
 }
 
 .sec-service__feature {
   float: left;
   width: 345px;
   text-align: center;
-  margin: 15px;
 }
 
-/*----Feature icon ----*/
-
-.feature__heading__img {
-  height: 90px;
-  width: 90px;
-  display: inline-block;
-  margin-bottom: 15px;
+.test {
+  height: 500px;
+  background-color: blue;
 }
 
-.feature__heading__img:hover {
-    background-position: 0 -90px ;
-}
-
-.feature__heading__img-typography {
-  background: url(../img/icon_serv1.png) no-repeat;
-}
-
-.feature__heading__img-code {
-  background: url(../img/icon_serv2.png) no-repeat;
-}
-
-.feature__heading__img-support {
-  background: url(../img/icon_serv3.png) no-repeat;
-}
-
-/*----Feature text block ----*/
-
-.feature__heading__title {
-  text-transform: uppercase;
-  font-family: Montserrat;
-}
-
-.sec-service__feature__text {
-  margin-top: 2.5rem;
-  font-family: RobotoSlab;
-  font-size: 1.4rem;
-}
-
-
-/*
------------------------------
-      _sec-about.scss
------------------------------
-*/
-
-.sec-about {
-  padding: 10px 0;
-  color: black;
-  width: 100%;
-  height: auto;
-  background-color: #f8f8f8;
-}
-.sec-about__text-wrapper {
-  
-}
-
-.sec-about__text {
-  width: 45%;
-  float: left;
-  padding: 0 15px;
-  font-family: RobotoSlab;
-  font-size: 1.4rem;
-  font-weight: 400;
-  line-height: 24px;
-  text-align: justify;
-}
-
-.sec-about__workers__wrapper {
-  margin: 0 auto;
-  position: relative;
-}
-
-.sec-about__workers__item {
-  height: 263px;
-  width: 250px;
-  display: inline-block;
-  margin: 15px; 
-  background: url(../img/slide_img/about_us1.png) no-repeat center;
+.feature__heading {
+  color: white;
 }

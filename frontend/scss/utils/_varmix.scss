@@ -1,5 +1,5 @@
 $red: #c0301c;
-$white: #000;
+$white: #fff;
 $black: #555;
 $lite-black: #777;
 $gray: #f8f8f8;
@@ -11,9 +11,11 @@ $fs_base: 10px;
 //mixins
 
 @mixin cf() {
-  content: '';
-  display: block;
-  clear: both;
+  &::after {
+    content: '';
+    display: block;
+    clear: both;
+  }
 }
 
 @mixin footer-social {
