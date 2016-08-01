@@ -1,0 +1,9 @@
+.sec-service {
+  padding-bottom: 100px;
+}
+
+.sec-service__feature {
+  float: left;
+  width: 345px;
+  text-align: center;
+}
