@@ -1,7 +1,11 @@
 .module {
-  width: 30%;
+  width: 50%;
   margin: 90px auto 62px auto;
   text-align: center;
+
+  @media(max-width: $xs){
+    margin: 55px auto 32px auto;
+  }
 }
 
 .module_h2 {

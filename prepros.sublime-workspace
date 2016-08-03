@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tt",
+				"tt-n	text-transform: none;"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"sm",
+				"ovs-m	overflow-style: move;"
+			],
+			[
+				"va",
+				"va-m	vertical-align: middle;"
+			],
+			[
+				"ta",
+				"ta-j	text-align: justify;"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"he",
+				"header-button_menu"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"card",
+				"card"
+			],
+			[
+				"shopping",
+				"shopping__cart"
+			],
+			[
+				"blog-video",
+				"blog-video"
+			],
+			[
+				"Н",
+				"Новостройки"
+			],
+			[
+				"borer",
+				"border-top-right-radius"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"di",
+				"d-ib	display: inline-block;"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "syn php",
+		"selected_items":
+		[
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn s",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syn pu",
+				"Set Syntax: Pug"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: JSON"
+			],
+			[
+				"Package Control: instal ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/am/wp-content/themes/artmarusya/functions.php",
+		"/C/wamp64/www/am/wp-content/themes/twentyfifteen/header.php",
+		"/C/wamp64/www/am/wp-content/themes/twentyfifteen/sidebar.php",
+		"/C/wamp64/www/am/wp-content/themes/artmarusya/header.php",
+		"/C/wamp64/www/am/wp-content/themes/artmarusya/footer.php",
+		"/C/wamp64/www/am/wp-content/themes/twentyfifteen/functions.php",
+		"/D/Web/myCSS/artmarusya/index.php",
+		"/D/Web/myCSS/artmarusya/prepros.cfg",
+		"/C/wamp64/www/am/wp-content/themes/artmarusya/index.php",
+		"/D/Web/myCSS/artmarusya/index.html",
+		"/D/Web/myCSS/artmarusya/css/style.css",
+		"/C/wamp64/www/am/wp-content/themes/artmarusya/style.css",
+		"/C/wamp64/www/am/wp-content/themes/twentysixteen/style.css",
+		"/C/wamp64/www/am/index.php",
+		"/C/wamp64/www/artmarusya/index.php",
+		"/D/Web/myCSS/artmarusya/JQueryAssets/jquery.ui.core.min.css",
+		"/D/Web/myCSS/artmarusya/JQueryAssets/jquery.ui.theme.min.css",
+		"/D/Web/myCSS/artmarusya/JQueryAssets/jquery.ui.datepicker.min.css",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/style.scss",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/parts/_sec-recent.scss",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_sec-recent.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/utils/_varmix.scss",
+		"/C/Users/user/Desktop/Арт-проект МАРУСЯ_files/embed.html",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_header.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/utils/_normalize.scss",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_sec-about.jade",
+		"/D/Web/myCSS/Training/trinity/public/index.html",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/parts/_sec-about.scss",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/parts/_sec-service.scss",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_module.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/_global.scss",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/modules/_sec-title.scss",
+		"/D/Web/myCSS/Training/trinity/public/css/style.css",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/parts/_header.scss",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/index.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/parts/_sec-parallax.scss",
+		"/D/Web/Design/Frame/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/js/bootstrap.js",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_sec-works.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_sec-parallax.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_sec-contacts.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_footer.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/parts/_footer.scss",
+		"/D/Web/myCSS/appmo/frontend/pug/index.pug",
+		"/D/Web/myCSS/appmo/frontend/pug/newsletter.pug",
+		"/D/Web/myCSS/First reload/frontend/scss/_reset.scss",
+		"/D/Web/myCSS/First reload/frontend/scss/_mixin.scss",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_sec-slide.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/_sec-service.jade",
+		"/D/Web/myCSS/First reload/frontend/jade/index.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/jade/includes/header.jade",
+		"/D/Web/myCSS/Training/trinity/frontend/scss/utils/_var.scss",
+		"/D/Web/myCSS/Training/trinity/gulpfile.js",
+		"/D/Web/myCSS/appmo/gulpfile.js",
+		"/D/Web/myCSS/Training/trinity/package.json",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_card-products.scss",
+		"/C/Users/user/Desktop/_card-products.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_card-products.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/public/card-products.html",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/style.scss",
+		"/C/Temp/Rar$EXa0.887/_card-products.html",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_header.scss",
+		"/C/Users/user/Downloads/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/js/bootstrap.js",
+		"/C/Users/user/Downloads/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/css/bootstrap.css",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_header.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/public/pop_up.html",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_features.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/index.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_private_office.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_pop_up.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_kit.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/public/kit.html",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_pop_up.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_shopping_cart.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_registration.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_private_office.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_kit3.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_payment.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_kit2.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_kit.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_footer.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/public/index.html",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_footer.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/public/private_office.html",
+		"/C/Users/user/Downloads/html5shiv-master/html5shiv-master/dist/html5shiv.js",
+		"/C/Users/user/Downloads/html5shiv-master/html5shiv-master/dist/html5shiv-printshiv.js",
+		"/C/Users/user/Downloads/html5shiv-master/html5shiv-master/dist/html5shiv.min.js",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/jade/_about_us.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/html/_header.html",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_mixin.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/frontend/scss/_about_us.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_private_office.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_card-products.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_card-products.html",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_card-products.jade",
+		"/C/Users/user/Downloads/karta_tovara_adaptiv_v2/_card-products.html",
+		"/C/Users/user/Downloads/karta_tovara_adaptiv_v2/_card-products.scss",
+		"/C/Users/user/Downloads/karta_tovara_adaptiv_v1/_card-products.jade",
+		"/C/Users/user/Downloads/karta_tovara_adaptiv_v1/_card-products.html",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_header.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_pop_up.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_registration.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_registration.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/css/style.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_pop_up.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_payment.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_payment.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_private_office.html",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_shopping-cart.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_private_office.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_mixin.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_shopping_cart.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_reset.scss",
+		"/G/videokurs/3/3.14/index.html",
+		"/G/videokurs/3/3.3/index.html",
+		"/G/videokurs/3/3.2/index.html",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_bascket.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_",
+		"/C/Users/user/Desktop/myCSS/First reload/responsive.html",
+		"/C/Users/user/Desktop/myCSS/First reload/html/index.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_card products.html",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_head.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/html/index.html",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_footer.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/css/_features.scss",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_header.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/html/_footer.jade",
+		"/C/Users/user/Desktop/myCSS/First reload/img/feature_desc1.jpg",
+		"/C/Users/user/Desktop/myCSS/First reload/css/style.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\wamp64\\www\\am\\wp-content\\themes\\twentyfifteen",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu",
+			"id=\"secondary\"",
+			"secondary",
+			"menu",
+			" type=\"text/css\"",
+			"type=\"text/javascript\" ",
+			"jquery.ui",
+			"preloader",
+			"marusya.js",
+			"src=\"js/",
+			"<img src=\"",
+			"href=\"",
+			"id=\"section8",
+			"pagepilling",
+			"section1",
+			"section",
+			"logo_line",
+			"float",
+			"snos",
+			"hidden",
+			"man",
+			"section2",
+			"section",
+			"section7",
+			"pagepilling",
+			"intro",
+			"input",
+			"+",
+			"button dropdown",
+			" ;",
+			"0ж",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"src=\"<?php echo THEME_PATH ?>js/",
+			"<img src=\"<?php echo THEME_PATH ?>",
+			"href=\"<?php echo THEME_PATH ?>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prepros.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"twentyfifteen/sidebar.php",
+				"twentyfifteen\\sidebar.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

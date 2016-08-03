@@ -58,7 +58,7 @@
     margin: 0 15px;
   }
 
-  @media(max-width: 599px) {
+  @media(max-width: $ms) {
     display: block;
   }
 }
@@ -82,7 +82,7 @@
 .nav-items {
   @include cf();
 
-  @media(max-width: 599px) {
+  @media(max-width: $ms) {
     margin-top: 15px;
   }
 }
