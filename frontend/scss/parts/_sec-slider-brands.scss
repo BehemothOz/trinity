@@ -12,12 +12,17 @@
   text-align: center;
   
   .img-brands {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 
     .link-brands {
+      width: calc(898px/5 - 10px);
       display: inline-block;
       vertical-align: middle;
-      margin-right: 60px;
+      margin: 0 20px 10px 20px;
+
+      @media(max-width: $ms) {
+        width: calc(550px/5 - 10px);
+      }
     }
   }
 
