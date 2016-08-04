@@ -1,0 +1,37 @@
+.slider-brands {
+  background-color: $gray;
+}
+
+.slides {
+  padding: 90px 0;
+}
+
+.slide {
+  font-family: RobotoSlab;
+  color: $black;
+  text-align: center;
+  
+  .img-brands {
+    margin-bottom: 50px;
+
+    .link-brands {
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 60px;
+    }
+  }
+
+  .slide-text {
+    max-width: 60%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  .slide-sub-text {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  
+}
