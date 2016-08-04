@@ -663,6 +663,10 @@ button {
   color: #c0301c;
 }
 
+.sec-works {
+  padding-bottom: 100px;
+}
+
 .works-tabs {
   margin-bottom: 60px;
   text-align: center;
@@ -783,6 +787,47 @@ button {
 
 .gallery-item:hover .gallery-inner-item {
   opacity: 1;
+}
+
+.slider-brands {
+  background-color: #f8f8f8;
+}
+
+.slides {
+  padding: 90px 0;
+}
+
+.slide {
+  font-family: RobotoSlab;
+  color: #555;
+  text-align: center;
+}
+
+.slide .img-brands {
+  margin-bottom: 50px;
+}
+
+.slide .img-brands .link-brands {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 60px;
+}
+
+.slide .img-brands .link-brands:last-of-type {
+  margin-right: 0;
+}
+
+.slide .slide-text {
+  max-width: 60%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.slide .slide-sub-text {
+  font-size: 20px;
+  line-height: 1.5;
 }
 
 .module {
